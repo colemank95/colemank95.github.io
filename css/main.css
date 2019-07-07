@@ -63,22 +63,22 @@ header > #photo {
   color: #dd4b39;
 }
 
-.resume > .button {
-  display: flex; 
-  text-align: center;  
-  justify-content: center;
+/* back and download button */
+.navigation {
+  position: relative;
 }
 
-.resume > .button > a {
-  margin: 0; 
+.navigation > a {
+  color: #9b4dca;
+  margin-right: 1vh;
   padding: 1vh 2vh;
-  width: 10vh; /*10%*/
+  width: 20vh; /*10%*/
   border: 1px solid #9b4dca;
   font-size: 2vh;
   border-radius: 25px;
 }
 
-.resume > .button > a:hover {
+.navigation > a:hover{
   color: white;
   background: #9b4dca;
   transition-duration: 0.25s;
