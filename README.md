@@ -1,3 +1,3 @@
 # colemank95.github.io
 Personal website
-Last Updated on 06JUL2019
+Last Updated on 31JUL2019
